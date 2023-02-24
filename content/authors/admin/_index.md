@@ -30,9 +30,9 @@ education:
     - course: 联合培养(国家公派留学)
       institution: Yeungnam University
       year: 2021
-    #- course: BSc in Artificial Intelligence
-    #  institution: Massachusetts Institute of Technology
-    #  year: 2008
+    - course: 工学学士(车辆工程)
+      institution: 上海电机学院
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
