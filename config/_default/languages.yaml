@@ -3,32 +3,32 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-   languageCode: en-us
+#en:
+   #languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   # contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
-  contentDir: content/zh
-  title: 丁东与其团队
-  params:
-    description: 本页面展示了关于团队的成员、研究领域与主要成果
-  menu:
-    main:
-      - name: 团队概况
-        url: '#about'
-        weight: 1
-      - name: 招生
-        url: '#employ'
-        weight: 2
-      - name: 成员
-        url: '#team_member'
-        weight: 3
-      - name: 主要成果
-        url: '#main_work'
-        weight: 4
-      - name: 联系方式
-        url: '#contant_way'
-        weight: 5
+  #contentDir: content/zh
+  #title: 丁东与其团队
+  #params:
+    #description: 本页面展示了关于团队的成员、研究领域与主要成果
+  #menu:
+    #main:
+      #- name: 团队概况
+      #  url: '#about'
+      #  weight: 1
+      #- name: 招生
+      #  url: '#employ'
+      #  weight: 2
+      #- name: 成员
+      #  url: '#team_member'
+      #  weight: 3
+      #- name: 主要成果
+      #  url: '#main_work'
+      #  weight: 4
+      #- name: 联系方式
+      #  url: '#contant_way'
+      #  weight: 5
