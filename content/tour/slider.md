@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 Welcome to the team
+      content: we have recently focused on complex networks, synchornization, and stability analysis
       align: center
       background:
         position: right
@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: coders.jpg
     - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      content: We are now receiving applications by students who have good command of English
       align: left
       background:
         position: center
