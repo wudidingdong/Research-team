@@ -1,16 +1,15 @@
 ---
-title: 'Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay'
+title: 'Secure synchronization of complex networks under deception attacks against vulnerable nodes'
 authors:
   - Dong Ding
   - Ze Tang
-  - Ju H. Park
   - Yan Wang
   - Zhicheng Ji
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
-date: '2023-02-01T00:00:00Z'
-doi: '10.1109/TCYB.2022.3168854'
+date: '2021-06-15T00:00:00Z'
+doi: '10.1016/j.amc.2021.126017'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2022-05-01T00:00:00Z'
@@ -22,13 +21,13 @@ doi: '10.1109/TCYB.2022.3168854'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Cybernetics*, 53(2)'
+publication: '*Applied Mathematics and Computation*, 399'
 publication_short: ''
 
-abstract: Synchronization of complex networks with nonlinear couplings and distributed time-varying delays is investigated in this article. Since the mismatched parameters of individual systems, a kind of leader-following quasisynchronization issues is analyzed via impulsive control. To acquire appropriate impulsive intervals, the dynamic self-triggered impulsive controller is devoted to predicting the available instants of impulsive inputs. The proposed controller ensures the control effects while reducing the control costs. In addition, the updating laws of the dynamic parameter is settled in consideration of error bounds to adapt to the quasisynchronization. With the utilization of the Lyapunov stability theorem, comparison method, and the definition of average impulsive interval, sufficient conditions for realizing the synchronization within a specific bound are derived. Moreover, with the definition of average impulsive gain, the parameter variation scheme is extended from the fixed impulsive effects case to the time-varying impulsive effects case. Finally, three numerical examples are given to show the effectiveness and the superiority of proposed mathematical deduction.
+abstract: Secure synchronization for a class of nonlinearly coupled complex networks with deception attacks is investigated in this paper. False data caused by deception attacks is assumed to be injected into both the sensor-to-controller channels and the controller-to-actuator channels, which is modelled by Bernoulli stochastic variable. A distributed controller combined with impulsive protocol is applied for realizing the secure synchronization. By jointly applying the definition of average impulsive gain, the definition of average impulsive interval and the Lyapunov stability theorem, sufficient criteria are obtained to ensure the secure synchronization within the given error bound. In addition, pinning impulsive method is proposed to describe the attacks on vulnerable systems in complex networks, therefore, the theorem is extended to a less conservative situation. Finally, two numerical examples are presented to illustrate the effectiveness of theoretical results.
 
 # Summary. An optional shortened abstract.
-summary: Dynamic self-triggered mechanism, distributed time-varying delay, extended parameter variation scheme, quasi-synchronization.
+summary: Secure synchronization, false data injection, average impulsive gain, deception attack.
 
 tags:
   - Source Themes

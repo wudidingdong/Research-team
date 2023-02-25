@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我目前的研究领域聚焦于复杂网络、同步分析、脉冲控制、自触发机制等。
+bio: 他目前的研究领域聚焦于复杂网络、同步分析、脉冲控制、自触发机制等。
 
 interests:
   - 稳定性分析
@@ -67,7 +67,11 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
+  #- Visitors
+  - Principal Investigators
+  #- Grad Students
+  #- Administration
+  #- Alumni
 ---
 
 丁东目前是电气学院自动化系的讲师，他从事的研究主要聚焦于复杂网络同步控制。目前他以第一作者发表*SCI*期刊7篇，合作发表*EI*检索论文8篇，其中包含自动化领域高水平期刊*IEEE Transactions on Cybernetics*，*IEEE Transactions on Network Science and Engineering*等。此外，他以第二主编出版*Springer*专著一部。具体文献信息请见[个人主页](https://wudidingdong.github.io)。
