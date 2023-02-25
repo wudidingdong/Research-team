@@ -25,8 +25,8 @@ content:
     #country: 中国
     #country_code: US
   coordinates:
-    latitude: '30.894912'
-    longitude: '121.888078'
+    latitude: '30.890012'
+    longitude: '121.887078'
   directions: 电气学院4楼
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
