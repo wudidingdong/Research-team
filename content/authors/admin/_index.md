@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dong Ding
+title: 丁东
 
 # Is this the primary user of the site?
 superuser: true
