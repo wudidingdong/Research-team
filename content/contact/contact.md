@@ -26,7 +26,7 @@ content:
     #country_code: US
   coordinates:
     latitude: '30.890012'
-    longitude: '121.887078'
+    longitude: '121.881078'
   directions: 电气学院4楼
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
