@@ -1,5 +1,5 @@
 ---
-title: 'Cluster Synchronization on Derivative Coupled Lur’e Networks: Impulsive Pinning Strategy'
+title: 'Cluster synchronization on derivative coupled Lur’e networks: impulsive pinning strategy'
 authors:
   - Ze Tang
   - Dong Ding
@@ -26,7 +26,7 @@ publication_short: ''
 abstract: This chapter is concerned with the global and exponential synchronization issue for a class of nonidentically delay coupled Lur’e networks with stochastic disturbance and derivative couplings. Considering that the topological structure of the coupled Lur’e networks consists of several groups, cluster synchronization instead of complete synchronization is discussed. In order to present the synchronization criteria, a novel controller combining with the impulsive control and pinning control strategies is designed, which will be imposed on those Lur’e systems in the cluster but have directed connections with the Lur’e systems in the other clusters. By applying the extended comparison principle of the impulsive differential equations, the definition of the average impulsive interval, the mathematical taxonomy on impulsive parameters simultaneously, the achievement of the cluster synchronization on nonidentically derivative coupled Lur’e networks are guaranteed. Furthermore, the exponential convergence velocity of the derivative coupled Lur’e networks with stochastic disturbance is precisely estimated. Eventually, several numerical simulations demonstrate the effectiveness and applicability of the established synchronization technique.
 
 # Summary. An optional shortened abstract.
-summary: Cluster synchronization, Nonidentical Lur’e systems, Stochastic disturbance, Derivative couplings, Impulsive control, Complex networks.
+summary: Cluster synchronization, nonidentical Lur’e systems, stochastic disturbance, derivative couplings, impulsive control, complex networks.
 
 tags:
   - Source Themes
