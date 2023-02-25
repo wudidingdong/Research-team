@@ -1,13 +1,14 @@
 ---
-title: 'An example conference paper'
+title: 'Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control'
 authors:
+  - Deli Xuan
   - admin
-  - Robert Ford
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  - Ze Tang
+date: '2020-08-11T00:00:00Z'
+doi: '10.1109/CCDC49329.2020.9164731'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +17,23 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2020 Chinese Control And Decision Conference*
+publication_short: In *20nd CCDC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, the global synchronization problem for a kind of complex dynamical networks with nonlinearly coupled functions and an asymmetrical coupling matrix is investigated by using pinning control. By designing the adaptive updating laws for the pinning feedback controller, some proper feedback control gains will be acquired. According to the Lyapunov stability theorem and the projection method, sufficient conditions are obtained that ensure the realisation of the global synchronization for the complex dynamical network with different initial values. Finally, the theoretical results are illustrated by a numerical experiment.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Complex networks, adaptive pinning control, nonlinearly coupled function, global synchronization,
+asymmetrical couplings
 
 tags:
   - Source Themes
 featured: true
 
-links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# links:
+#   - name: Custom Link
+#     url: http://example.org
+url_pdf: ''
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -42,18 +44,18 @@ url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - internal-project
+# projects:
+#   - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
