@@ -28,8 +28,7 @@ publication_short: ''
 abstract: Synchronization of complex networks with nonlinear couplings and distributed time-varying delays is investigated in this article. Since the mismatched parameters of individual systems, a kind of leader-following quasisynchronization issues is analyzed via impulsive control. To acquire appropriate impulsive intervals, the dynamic self-triggered impulsive controller is devoted to predicting the available instants of impulsive inputs. The proposed controller ensures the control effects while reducing the control costs. In addition, the updating laws of the dynamic parameter is settled in consideration of error bounds to adapt to the quasisynchronization. With the utilization of the Lyapunov stability theorem, comparison method, and the definition of average impulsive interval, sufficient conditions for realizing the synchronization within a specific bound are derived. Moreover, with the definition of average impulsive gain, the parameter variation scheme is extended from the fixed impulsive effects case to the time-varying impulsive effects case. Finally, three numerical examples are given to show the effectiveness and the superiority of proposed mathematical deduction.
 
 # Summary. An optional shortened abstract.
-summary: Dynamic self-triggered mechanism, distributed time-varying delay, extended parameter variation scheme
-, quasi-synchronization
+summary: Dynamic self-triggered mechanism, distributed time-varying delay, extended parameter variation scheme, quasi-synchronization
 
 tags:
   - Source Themes
