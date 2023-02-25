@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 出版物
 cms_exclude: true
 
 # View.
