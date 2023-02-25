@@ -24,9 +24,9 @@ content:
     postcode: '201306'
     #country: 中国
     #country_code: US
-  coordinates:,
-    latitude: '30.894216'
-    longitude: '121.891945'
+  coordinates:
+    latitude: '31.30526'
+    longitude: '121.551966'
   directions: 电气学院4楼
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -53,5 +53,4 @@ content:
 design:
   columns: '1'
 ---
-
 如果你对复杂网络的同步控制有兴趣，且有较好的英语基础，可以邮件联系我们。
