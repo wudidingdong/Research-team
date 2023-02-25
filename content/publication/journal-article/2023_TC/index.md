@@ -1,7 +1,7 @@
 ---
 title: 'Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay'
 authors:
-  - admin
+  - Dong Ding
   - Ze Tang
   - Ju H. Park
   - Yan Wang
