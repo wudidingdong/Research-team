@@ -1,14 +1,14 @@
 ---
 title: 'Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control'
 authors:
-  - Yue Gao
+  - Deli Xuan
   - Dong Ding
   - Ze Tang
 date: '2020-08-11T00:00:00Z'
-doi: '10.1109/CCDC49329.2020.9164879'
+doi: '10.1109/CCDC49329.2020.9164731'
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,21 +17,21 @@ doi: '10.1109/CCDC49329.2020.9164879'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2020 Chinese Control and Decision Conference*
+publication: In *2020 Chinese Control And Decision Conference*
 publication_short: In *20nd CCDC*
 
-abstract: In this paper, the global synchronization problem of a class of nonlinearly coupled Lur'e networks is focused under adaptive pinning control. Based on the Lyapunov stability theorem, Lipschitz condition and linear matrix inequality, it will be proved that this kind of complex networks can be pinned to a homogenous solution. Furthermore, sufficient conditions for the global synchronization of the nonlinearly coupled complex networks can be derived in view of some linearization methods and S-procedure. Based on the designed adaptive updating laws, some suitable control gains will be obtained. One numerically simulated example of the theoretical results is given.
+abstract: In this paper, the global synchronization problem for a kind of complex dynamical networks with nonlinearly coupled functions and an asymmetrical coupling matrix is investigated by using pinning control. By designing the adaptive updating laws for the pinning feedback controller, some proper feedback control gains will be acquired. According to the Lyapunov stability theorem and the projection method, sufficient conditions are obtained that ensure the realisation of the global synchronization for the complex dynamical network with different initial values. Finally, the theoretical results are illustrated by a numerical experiment.
 
 # Summary. An optional shortened abstract.
-summary: Adaptive control, global synchronization, nonlinear coupling, pinning control, Lur’e networks
+summary: Complex networks, adaptive pinning control, nonlinearly coupled function, global synchronization, asymmetrical couplings
 
 tags:
   - Source Themes
 featured: true
 
-#links:
-  #- name: Custom Link
-  #  url: http://example.org
+# links:
+#   - name: Custom Link
+#     url: http://example.org
 url_pdf: ''
 url_code: '#'
 url_dataset: '#'
@@ -44,9 +44,9 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ''
-#  preview_only: false
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
