@@ -32,23 +32,23 @@ content:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+  contact_links:
+    - icon: comments
+      icon_pack: fas
+      name: Discuss on Forum
+      link: 'wudidingdong.github.io'
 
   # Automatically link email and phone or display as text?
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
 design:
   columns: '1'
