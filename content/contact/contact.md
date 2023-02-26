@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: 联系方式
 subtitle:
 
 content:
@@ -42,15 +42,15 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: true
 
 design:
   columns: '1'
 ---
-如果你对复杂网络的同步控制有兴趣，且有较好的英语基础，可以直接在本页面提交，或者使用邮件联系我们。
+如果你对复杂网络的同步控制有兴趣，且有较好的英语基础，可以使用邮件联系我们。
