@@ -14,7 +14,8 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: dingd@sdju.edu.cn;
+  
+  email: dingd@sdju.edu.cn
   #phone: 888 888 88 88
   address:
     street: 水华路300号
@@ -30,8 +31,8 @@ content:
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
-  #appointment_url: 'https://calendly.com'
-  #contact_links:
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
   #  - icon: comments
   #    icon_pack: fas
   #    name: Discuss on Forum
