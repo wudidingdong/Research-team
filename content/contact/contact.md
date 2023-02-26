@@ -14,7 +14,6 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-
   email: dingd@sdju.edu.cn;
   #phone: 888 888 88 88
   address:
