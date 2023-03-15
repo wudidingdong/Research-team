@@ -1,5 +1,5 @@
 ---
-title: 'Adaptive synchronization of complex dynamical networks via distributed pinning impulsive control'
+title: 'Pinning impulsive synchronization of complex networks with multiple sizes of delays via adaptive impulsive intervals'
 authors:
   - Dong Ding
   - Ze Tang
@@ -8,8 +8,8 @@ authors:
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
-date: '2020-10-13T00:00:00Z'
-doi: '10.1007/s11063-020-10373-x'
+date: '2021-03-02T00:00:00Z'
+doi: '10.1007/s00034-021-01682-0'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2022-05-01T00:00:00Z'
@@ -21,13 +21,13 @@ doi: '10.1007/s11063-020-10373-x'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Neural Processing Letters*, 52(3)'
+publication: '*Circuits, Systems, and Signal Processing*, 40'
 publication_short: ''
 
-abstract: In this paper, exponential synchronization of a class of nonlinearly coupled complex dynamical networks with time-varying delay is investigated. A novel distributed controller combined with pinning impulsive method is designed by selecting the systems with largest norms of errors to be controlled at every impulsive instant. By introducing the adaptive control protocol into the negative feedback controller, suitable control gains are obtained and therefore, the control cost is efficiently saved. Based on the Lyapunov stability theory and some mathematical techniques, some novel leader-following synchronization criteria are derived. Furthermore, with consideration of time-varying impulsive effects, the obtained results are extended to a more complicated situation. Finally, two numerical examples are performed to illustrate the effectiveness of the theoretical analysis.
+abstract: The leader-following issue for a class of nonlinearly coupled complex networks with multiple time-varying delays was investigated in this study. A distributed controller was introduced for realizing the exponential synchronization of the complex network with different delay scales that are known in advance. The Lyapunov stability theorem and mathematical induction method were used to obtain delay-dependent criteria for global impulsive synchronization. Additionally, an adaptive strategy was adopted to establish appropriate impulsive intervals suitable for various delays. The fact that the proposed adaptive scheme is more general and less conservative enables the effective release of the constriction caused by unknown delay scales. Furthermore, the pinning impulsive control method enables the control cost to be further reduced. Finally, several numerical simulations were performed to evaluate the effectiveness of the mathematical deductions.
 
 # Summary. An optional shortened abstract.
-summary: Exponential synchronization, distributed impulsive control, pinning adaptive control, time-varying delay, complex networks
+summary: Various delay sizes, pinning impulsive control, adaptive impulsive intervals, exponential synchronization.
 
 tags:
   - Source Themes
