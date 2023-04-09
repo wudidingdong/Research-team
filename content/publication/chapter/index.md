@@ -1,5 +1,5 @@
 ---
-title: 'Cluster synchronization on derivative coupled Lur’e networks: impulsive pinning strategy'
+title: 'Cluster synchronization on derivative coupled Lur’e networks: Impulsive pinning strategy'
 authors:
   - Ze Tang
   - Dong Ding
