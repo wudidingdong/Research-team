@@ -1,5 +1,5 @@
 ---
-title: 'Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control'
+title: 'Adaptive pinning synchronization on nonlinearly coupled complex networks with an asymmetrical matrix'
 authors:
   - Deli Xuan
   - Dong Ding
