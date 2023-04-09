@@ -1,5 +1,5 @@
 ---
-title: 'Secure synchronization for cyber-physical complex networks based on self-triggering impulsive control: static and dynamic method'
+title: 'Secure synchronization for cyber-physical complex networks based on self-triggering impulsive control: Static and dynamic method'
 authors:
   - Dong Ding
   - Ze Tang
